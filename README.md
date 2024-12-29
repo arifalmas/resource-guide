@@ -2,5 +2,3 @@
 
 for dot pro only
 
-image
-
