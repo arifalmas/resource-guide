@@ -1,4 +1,4 @@
 # resource-guide
 
-for dot pro only
+for dot pro only personal
 
